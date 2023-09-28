@@ -1,4 +1,4 @@
-Hey 🤙🏾 My name is Levon Watkins Jr.
+Hey, I'm Levon Watkins Jr <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Victory Hand Medium-Dark Skin Tone" width="25" height="25" />
 ==================================
 
 Aspiring Cybersecurity Analyst 👨🏾‍💻
@@ -7,7 +7,7 @@ Aspiring Cybersecurity Analyst 👨🏾‍💻
 Linux enthusiast currently studying Information Technology with a concentration in Cybersecurity and Data Analytics at the University of North Alabama.
 
 *   🌍  I'm based in Huntsville, AL
-*   📥  You can contact me at [levonwatkins33@gmail.com](mailto:levonwatkins33@gmail.com)
+*   🤙🏾   You can contact me at [levonwatkins33@gmail.com](mailto:levonwatkins33@gmail.com)
 *   🧠  I'm learning Go, R, and Data Structures
 
 ### Skills 
