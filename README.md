@@ -1,7 +1,7 @@
 Hey, I'm Levon Watkins Jr <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Victory Hand Medium-Dark Skin Tone" width="25" height="25" />
 ==================================
 
-Aspiring Cybersecurity Analyst 👨🏾‍💻
+Aspiring Cybersecurity Analyst <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist Medium-Dark Skin Tone" width="25" height="25" />
 ------------------------------
 
 Linux enthusiast currently studying Information Technology with a concentration in Cybersecurity and Data Analytics at the University of North Alabama.
