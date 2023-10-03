@@ -8,7 +8,7 @@ Linux enthusiast currently studying Information Technology with a concentration 
 
 *   🌍  I'm based in Huntsville, AL
 *   🤙🏾   You can contact me at [levonwatkins33@gmail.com](mailto:levonwatkins33@gmail.com)
-*   🧠  I'm learning Go, R, and Data Structures
+*   🧠  I'm learning R, Advanced Bash functionality, and Web Development
 
 #### Skills 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,bash,linux,vim,py,r,go,mysql)             
