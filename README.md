@@ -11,7 +11,7 @@ Linux enthusiast currently studying Information Technology with a concentration 
 *   🧠  I'm learning R, Advanced Bash functionality, and Web Development
 
 #### Skills 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,bash,linux,vim,py,r,go,mysql)             
+![My Skills](https://skillicons.dev/icons?i=js,html,css,powershell,bash,linux,vim,py,r,mysql)             
 
 #### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/levon-watkins-jr-5bb034238/)&nbsp;
