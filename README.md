@@ -1,8 +1,6 @@
-Hey, I'm Levon Watkins Jr <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Victory Hand Medium-Dark Skin Tone" width="25" height="25" />
-==================================
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=007BFF&repeat=false&random=false&width=435&lines=Levon+Watkins+Jr.)](https://git.io/typing-svg)
 
-### Aspiring Cybersecurity Analyst 🔎
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Budding+Cybesecurity+Analyst;Passionate+Linux+Enthusiast)](https://git.io/typing-svg) 
 
 Linux enthusiast currently studying Information Technology with a concentration in Cybersecurity and Data Analytics at the University of North Alabama.
 
