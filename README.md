@@ -4,8 +4,8 @@
 Currently studying Information Technology with a concentration in Cybersecurity and Data Analytics at the University of North Alabama.
 
 *   🌍  I'm based in Huntsville, AL
-*   🤙🏾   You can contact me at [levonwatkins33@gmail.com](mailto:levonwatkins33@gmail.com)
-*   🧠  I'm learning R, Advanced Bash functionality, and Web Development
+*   🤙🏾   You can contact me at [levonwatkins@skiff.com](mailto:levonwatkins@skiff.com)
+*   🧠  I'm studying for (ISC)2 CC and Cisco CCST
 *   ⚡  Fedora/RHEL Linux Devotee
 
 #### Skills 
