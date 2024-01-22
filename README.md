@@ -1,5 +1,5 @@
 # Hello, I'm Levon 👋🏾
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Budding+Cybersecurity+Analyst;Passionate+Linux+Enthusiast)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Budding+Network+Security+Analyst;Passionate+Linux+Enthusiast)](https://git.io/typing-svg) 
 
 Currently studying Information Technology with a concentration in Cybersecurity and Data Analytics at the University of North Alabama.
 
