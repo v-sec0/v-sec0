@@ -9,7 +9,7 @@ Currently studying Information Technology with a concentration in Cybersecurity 
 *   ⚡  Playing around with OpenBSD
 
 #### Skills 
-![My Skills](https://skillicons.dev/icons?i=linux,js,java,bootstrap,r,html,md,css,powershell,bash,vim,py,vscode,mysql)             
+![My Skills](https://skillicons.dev/icons?i=linux,js,java,bootstrap,r,html,md,css,powershell,bash,vim,py,vscode,mysql,mongo)             
 
 #### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/levon-watkins-jr-5bb034238/)&nbsp;
