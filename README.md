@@ -6,7 +6,7 @@ Currently studying Information Technology with a concentration in Cybersecurity 
 *   🌍  I'm based in Huntsville, AL
 *   🤙🏾   You can contact me at [levonwatk@proton.me](mailto:levonwatk@proton.me)
 *   🧠  I'm studying for Cisco CCNA
-*   ⚡  Learning OpenBSD
+*   ⚡  Playing around with OpenBSD
 
 #### Skills 
 ![My Skills](https://skillicons.dev/icons?i=linux,js,java,bootstrap,r,html,md,css,powershell,bash,vim,py,vscode,mysql)             
