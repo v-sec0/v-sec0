@@ -13,4 +13,3 @@ Currently studying Information Technology with a concentration in Cybersecurity 
 
 #### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/levon-watkins-jr-5bb034238/)&nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/.vdubs)
