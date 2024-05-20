@@ -4,9 +4,9 @@
 Currently studying Information Technology with a concentration in Cybersecurity at the University of North Alabama.
 
 *   🌍  I'm based in Huntsville, AL
-*   🤙🏾   You can contact me at [levon@libre-mail.com](mailto:levon@libre-mail.com)
+*   🤙🏾   You can contact me at [levonwatkins33@gmail.com](mailto:levonwatkins33@gmail.com)
 *   🧠  I'm studying for Cisco CCNA
-*   ⚡  Playing around with OpenBSD
+*   ⚡  Playing around with Caddy
 
 #### Skills 
 ![My Skills](https://skillicons.dev/icons?i=linux,js,java,bootstrap,r,html,md,css,powershell,bash,vim,py,vscode,mysql,mongo)             
