@@ -4,7 +4,7 @@
 Currently studying Information Technology with a concentration in Cybersecurity at the University of North Alabama.
 
 *   🌍  I'm based in Huntsville, AL
-*   🤙🏾   You can contact me at [levonwatkins33@gmail.com](mailto:levonwatkins33@gmail.com)
+*   🤙🏾   You can contact me at [levon@ihatemalware.com](mailto:levon@ihatemalware.com)
 *   🧠  I'm studying for Cisco CCNA
 *   ⚡  Playing around with Caddy
 
