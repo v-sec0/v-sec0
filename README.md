@@ -7,7 +7,7 @@
 *   🤙🏾  You can contact me at [levon@ihatemalware.com](mailto:levon@ihatemalware.com)
 *   🧠  I'm studying for Cisco CCNA
 *   ⚡  Playing around with Cisco networking devices
-*   
+   
 #### Skills 
 ![My Skills](https://skillicons.dev/icons?i=linux,js,java,bootstrap,r,html,md,css,powershell,bash,vim,py,vscode,mysql,mongo)             
 
