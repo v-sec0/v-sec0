@@ -1,7 +1,7 @@
 # Hello, I'm Levon 👋🏾
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Enterprise+Network+Engineer;Passionate+Linux+Enthusiast)](https://git.io/typing-svg) 
 
-Information Technology Major
+**Information Technology Major**
 
 *   🌍  I'm based in Huntsville, AL
 *   🤙🏾  You can contact me at [levon@ihatemalware.com](mailto:levon@ihatemalware.com)
