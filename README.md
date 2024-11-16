@@ -1,5 +1,5 @@
 # Hello 👋🏾
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Enterprise+Network+Engineer;Passionate+Linux+Enthusiast)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Jr.+Network+Adminstrator;Passionate+Cybersecurity+Enthusiast)](https://git.io/typing-svg) 
 
 ---
 
