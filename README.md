@@ -1,5 +1,5 @@
 # Hello 👋🏾
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Jr.+Network+Adminstrator)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=500&duration=1200&pause=1500&color=F7F7F7&multiline=true&width=435&lines=Jr.+Network+Administrator+)](https://git.io/typing-svg)
 
 ---
 
