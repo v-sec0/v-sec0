@@ -9,8 +9,5 @@
 
 ---
 
-#### Skills 
-![My Skills](https://skillicons.dev/icons?i=linux,js,java,bootstrap,r,html,md,css,powershell,bash,vim,py,vscode,mysql,mongo)             
-
 #### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/levon-watkins-jr-5bb034238/)&nbsp;
