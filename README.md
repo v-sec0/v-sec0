@@ -1,12 +1,11 @@
 # Hello 👋🏾
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Jr.+Network+Adminstrator;Passionate+Cybersecurity+Enthusiast)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=007BFF&random=false&width=435&lines=Jr.+Network+Adminstrator)](https://git.io/typing-svg) 
 
 ---
 
 *   🌍  I'm based in Huntsville, AL
-*   🤙🏾  You can contact me at [levon@ihatemalware.com](mailto:levon@ihatemalware.com)
-*   🧠  I'm studying for Cisco CCNA
-*   ⚡  Playing around with Cisco networking devices
+*   🤙🏾  You can contact me at [virtuallevon@icloud.com](mailto:virtuallevon@icloud.com)
+*   🧠  I'm studying for Cisco CCNP Data Center
 
 ---
 
